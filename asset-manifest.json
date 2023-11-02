@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gdsc-cert/static/css/main.e6c13ad2.css",
+    "main.js": "/gdsc-cert/static/js/main.4c8e16e0.js",
+    "static/media/logo-gcjs.svg": "/gdsc-cert/static/media/logo-gcjs.ea947f2e0b740b01612fbf6046353cfe.svg",
+    "index.html": "/gdsc-cert/index.html",
+    "main.e6c13ad2.css.map": "/gdsc-cert/static/css/main.e6c13ad2.css.map",
+    "main.4c8e16e0.js.map": "/gdsc-cert/static/js/main.4c8e16e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4c8e16e0.js"
+  ]
+}
